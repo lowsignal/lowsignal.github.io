@@ -6,10 +6,28 @@
     <description>Recent content on Low Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 12:40:58 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 20:38:04 +0700</lastBuildDate>
     
 	<atom:link href="http:lowsignal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>http:lowsignal.github.io/contact/</link>
+      <pubDate>Tue, 06 Aug 2019 20:38:04 +0700</pubDate>
+      
+      <guid>http:lowsignal.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http:lowsignal.github.io/about/</link>
+      <pubDate>Tue, 06 Aug 2019 20:17:50 +0700</pubDate>
+      
+      <guid>http:lowsignal.github.io/about/</guid>
+      <description>Hallo Dunia, saya Ibrahim Al Anshor. Saya selaku admin di blog ini mengucapkan silahkan membaca. Jika ada yang ingin disampaikan bisa hubungi saya atau komentar dibawah.</description>
+    </item>
     
     <item>
       <title>Hello World</title>
@@ -17,7 +35,7 @@
       <pubDate>Sat, 03 Aug 2019 12:40:58 +0700</pubDate>
       
       <guid>http:lowsignal.github.io/hello-world/</guid>
-      <description>Hello Everybody, Let me introduce myself. My name is Ibrahim Al Anshor. I am sixteen years old now. I am admin of Lowsignal. I hope i can give you information with this blog, i hope this blog can be useful for you all.</description>
+      <description>Hallo Dunia, saya Ibrahim Al Anshor. Saya selaku admin di blog ini mengucapkan silahkan membaca. Jika ada yang ingin disampaikan bisa hubungi saya atau komentar dibawah.</description>
     </item>
     
   </channel>
