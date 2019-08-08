@@ -6,10 +6,22 @@
     <description>Recent content on Low Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 20:38:04 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 18:31:28 +0700</lastBuildDate>
     
 	<atom:link href="http:lowsignal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Membuat Link</title>
+      <link>http:lowsignal.github.io/membuat-link/</link>
+      <pubDate>Wed, 07 Aug 2019 18:31:28 +0700</pubDate>
+      
+      <guid>http:lowsignal.github.io/membuat-link/</guid>
+      <description>Link adalah elemen yang digunakan untuk menghubungkan suatu halaman web ke halaman lainya. Link dapat ditemui di hampir setiap halaman web.
+Syntax Dasar Link Text Contoh link Low Signal
+Didalam tag href dimasukan url link yang dituju. Dan ini hasil dari link Lowsignal
+Atribut Target Dalam link kita juga dapat menyertakan atribut link. Dengan atribut target, kita dapat mengatur dimana link tersebut akan terbuka, di tab baru, window baru, dll.</description>
+    </item>
     
     <item>
       <title>Contact</title>

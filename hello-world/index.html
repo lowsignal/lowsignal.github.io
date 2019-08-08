@@ -6,6 +6,13 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="title" content="Low Signal">
+	<meta name="description" content="Belajar bahasa pemrograman gratis, mudah, dan lengkap">
+	<meta name="keywords" content="programming, coding, pemrograman, koding, komputer, web, aplikasi, software">
+	<meta name="robots" content="index, follow">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="language" content="English">
+
 	
 <meta itemprop="name" content="Hello World">
 <meta itemprop="description" content="Hallo Dunia, saya Ibrahim Al Anshor. Saya selaku admin di blog ini mengucapkan silahkan membaca. Jika ada yang ingin disampaikan bisa hubungi saya atau komentar dibawah.">
@@ -48,6 +55,7 @@
 
 	<link rel="icon" href="/img/logo.svg">
 	<link rel="stylesheet" href="/css/mystyles.css">
+	<link rel="stylesheet" href="/css/prism.css">
 
 </head>
 <body>
@@ -89,7 +97,7 @@
         		<nav class="breadcrumb">
         			<ul>
                         
-                            <li><a href="/categories/others"><button class="button is-dark is-small" style="margin-top: .5rem">Others</button></a></li>
+                            <li><a href="/categories/others"><span class="tag is-dark" style="margin-top: .5rem">Others</span></a></li>
                         
                     </ul>
                 </nav>
@@ -111,6 +119,8 @@
 		<h2 class="is-size-4 has-text-weight-bold">Categories</h2>
 		<ul>
 	    	
+	    		<li><a href="/categories/html">Html</a></li>
+	  		
 	    		<li><a href="/categories/others">Others</a></li>
 	  		
 	    </ul>
@@ -130,7 +140,10 @@
 </footer>
 
 <script src="/js/jquery.js"></script>
-<script src="/js/script.js"></script>
+<script src="/js/prism.js"></script>
+<script>
+	Prism.plugins.customClass.prefix('prism--')
+</script>
 
 </body>
 </html>

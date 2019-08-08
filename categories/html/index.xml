@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Low Signal</title>
-    <link>http:lowsignal.github.io/posts/</link>
-    <description>Recent content in Posts on Low Signal</description>
+    <title>Html on Low Signal</title>
+    <link>http:lowsignal.github.io/categories/html/</link>
+    <description>Recent content in Html on Low Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 18:31:28 +0700</lastBuildDate>
     
-	<atom:link href="http:lowsignal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http:lowsignal.github.io/categories/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
 Syntax Dasar Link Text Contoh link Low Signal
 Didalam tag href dimasukan url link yang dituju. Dan ini hasil dari link Lowsignal
 Atribut Target Dalam link kita juga dapat menyertakan atribut link. Dengan atribut target, kita dapat mengatur dimana link tersebut akan terbuka, di tab baru, window baru, dll.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http:lowsignal.github.io/hello-world/</link>
-      <pubDate>Sat, 03 Aug 2019 12:40:58 +0700</pubDate>
-      
-      <guid>http:lowsignal.github.io/hello-world/</guid>
-      <description>Hallo Dunia, saya Ibrahim Al Anshor. Saya selaku admin di blog ini mengucapkan silahkan membaca. Jika ada yang ingin disampaikan bisa hubungi saya atau komentar dibawah.</description>
     </item>
     
   </channel>
