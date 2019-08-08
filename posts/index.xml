@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Low Signal</title>
-    <link>http:lowsignal.github.io/posts/</link>
+    <link>https://lowsignal.github.io/posts/</link>
     <description>Recent content in Posts on Low Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 18:31:28 +0700</lastBuildDate>
     
-	<atom:link href="http:lowsignal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lowsignal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Membuat Link</title>
-      <link>http:lowsignal.github.io/membuat-link/</link>
+      <link>https://lowsignal.github.io/membuat-link/</link>
       <pubDate>Wed, 07 Aug 2019 18:31:28 +0700</pubDate>
       
-      <guid>http:lowsignal.github.io/membuat-link/</guid>
+      <guid>https://lowsignal.github.io/membuat-link/</guid>
       <description>Link adalah elemen yang digunakan untuk menghubungkan suatu halaman web ke halaman lainya. Link dapat ditemui di hampir setiap halaman web.
 Syntax Dasar Link Text Contoh link Low Signal
 Didalam tag href dimasukan url link yang dituju. Dan ini hasil dari link Lowsignal
@@ -25,10 +25,10 @@ Atribut Target Dalam link kita juga dapat menyertakan atribut link. Dengan atrib
     
     <item>
       <title>Hello World</title>
-      <link>http:lowsignal.github.io/hello-world/</link>
+      <link>https://lowsignal.github.io/hello-world/</link>
       <pubDate>Sat, 03 Aug 2019 12:40:58 +0700</pubDate>
       
-      <guid>http:lowsignal.github.io/hello-world/</guid>
+      <guid>https://lowsignal.github.io/hello-world/</guid>
       <description>Hallo Dunia, saya Ibrahim Al Anshor. Saya selaku admin di blog ini mengucapkan silahkan membaca. Jika ada yang ingin disampaikan bisa hubungi saya atau komentar dibawah.</description>
     </item>
     
