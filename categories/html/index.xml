@@ -6,10 +6,21 @@
     <description>Recent content in Html on Low Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 18:31:28 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 19:09:22 +0700</lastBuildDate>
     
 	<atom:link href="https://lowsignal.github.io/categories/html/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Belajar HTML - Membuat Heading Pada HTML</title>
+      <link>https://lowsignal.github.io/heading/</link>
+      <pubDate>Fri, 09 Aug 2019 19:09:22 +0700</pubDate>
+      
+      <guid>https://lowsignal.github.io/heading/</guid>
+      <description>Heading merupakan tag html yang berfungsi untuk menampilkan judul pada halaman web. Heading dibuat dengan tag &amp;lt;h1&amp;gt; hingga &amp;lt;h6&amp;gt;
+Syntax Dasar Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Penggunaan heading sangat dianjurkan karena disukai mesin pencari. Selain itu pengunjung juga menjadi lebih mudah dalam membaca halaman.
+Horizontal Rules Horizontal rules merupakan tag html yang menampilkan sebuah garis horizontal.</description>
+    </item>
     
     <item>
       <title>Belajar HTML - Membuat Link Untuk Pindah Halaman</title>
