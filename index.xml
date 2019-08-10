@@ -6,10 +6,22 @@
     <description>Recent content on Low Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2019 19:09:22 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 12:40:43 +0700</lastBuildDate>
     
 	<atom:link href="https://lowsignal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Framework CSS Terbaik</title>
+      <link>https://lowsignal.github.io/framework-css-terbaik/</link>
+      <pubDate>Sat, 10 Aug 2019 12:40:43 +0700</pubDate>
+      
+      <guid>https://lowsignal.github.io/framework-css-terbaik/</guid>
+      <description>Framework CSS merupakan sebuah pustaka/library yang berisi kode-kode css siap pakai untuk membuat halaman web. Tujuan penggunaan framework adalah untuk memudahkan dan juga pengerjaan sebuah web.
+Bayangkan saja jika kita hendak membuat web dan harus membuat css satu persatu setiap projek, melelahkan bukan? Nah disitulah gunanya framework.
+Sekarang sudah banyak framework siap pakai yang sudah tersedia, anda tinggal memilihnya saja.
+Contohnya saja bootstrap. Bootstrap sudah digunakan untuk membuat berbagai web.</description>
+    </item>
     
     <item>
       <title>Belajar HTML - Membuat Heading Pada HTML</title>
